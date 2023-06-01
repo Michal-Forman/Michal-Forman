@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michal Forman</h1>
-<h3 align="center">I am a full-stack Web Developer</h3>
+<h3 align="center">Junior full-stack Web Developer</h3>
 
 - 💬 Ask me about **miska.forman@gmail.com**
 
