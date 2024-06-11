@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
 <h3 align="center">Junior Full-Stack developer from Czechia 🇨🇿</h3>
 
-- 📫 How to reach me **miska.forman@gmail.com**
+- 📫 How to reach me **michal.forman@proton.me**
 
 - 📄 Know about my experiences [https://michal-forman.github.io/Personal-Info/](https://michal-forman.github.io/Personal-Info/)
 
